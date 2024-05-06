@@ -4,6 +4,8 @@
 # Introduction 
 Unilever is a british - duch MNC FMCG company, headquatered in London, England. Unilever is one of the oldest FMCG companies, and its products are available in around 190 countries . In UK oices, Unilever has around 1500 employees which were spread across 12 foors.
 
+# Desclaimer : All datasets and reports do not represent any company, institution or country. All info are dummy set to demonstrate my capabilities.
+
 # Problem Statement
 With two canteens seating 150 employees each, lunchtime congestion is a significant issue, resulting in wasted time and food. Employees spend excessivetime queuing for meals, with limited options and insufficient time to enjoy their lunches. To address these issues, employees have proposed an online meal ordering system for delivery to their workstations, aiming to optimize lunch breaks and minimize food wastage.
 ![image](https://github.com/Mizlizzy/Unilever-canteen-ordering-system/assets/125541494/a37f500d-b908-4fa4-b71f-2ba094962274)
